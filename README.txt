@@ -1,5 +1,7 @@
-# vim: set ft=rst:
+This code is Django app for web site http://linoyb.pythonanywhere.com/
 
-See https://www.pythonanywhere.com/help (or click the "Help" link at the top
-right) for help on how to use PythonAnywhere, including tips on copying and
-pasting from consoles, and writing your own web applications.
+A project of course "Digital Humanities " at Ben Gurion University Of the Negev. 
+
+my partner in this project: Tomer Nir.
+
+University lecturer: YaeL Netzer
